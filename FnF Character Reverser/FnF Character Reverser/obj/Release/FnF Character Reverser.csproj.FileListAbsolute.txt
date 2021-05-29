@@ -1,0 +1,10 @@
+C:\Users\RewardedIvan\source\repos\FnF Character Reverser\FnF Character Reverser\bin\Release\FnF Character Reverser.exe.config
+C:\Users\RewardedIvan\source\repos\FnF Character Reverser\FnF Character Reverser\bin\Release\FnF Character Reverser.exe
+C:\Users\RewardedIvan\source\repos\FnF Character Reverser\FnF Character Reverser\bin\Release\FnF Character Reverser.pdb
+C:\Users\RewardedIvan\source\repos\FnF Character Reverser\FnF Character Reverser\obj\Release\FnF Character Reverser.csprojAssemblyReference.cache
+C:\Users\RewardedIvan\source\repos\FnF Character Reverser\FnF Character Reverser\obj\Release\FnF_Character_Reverser.Form1.resources
+C:\Users\RewardedIvan\source\repos\FnF Character Reverser\FnF Character Reverser\obj\Release\FnF_Character_Reverser.Properties.Resources.resources
+C:\Users\RewardedIvan\source\repos\FnF Character Reverser\FnF Character Reverser\obj\Release\FnF Character Reverser.csproj.GenerateResource.cache
+C:\Users\RewardedIvan\source\repos\FnF Character Reverser\FnF Character Reverser\obj\Release\FnF Character Reverser.csproj.CoreCompileInputs.cache
+C:\Users\RewardedIvan\source\repos\FnF Character Reverser\FnF Character Reverser\obj\Release\FnF Character Reverser.exe
+C:\Users\RewardedIvan\source\repos\FnF Character Reverser\FnF Character Reverser\obj\Release\FnF Character Reverser.pdb
