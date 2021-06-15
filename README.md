@@ -18,4 +18,4 @@ open any custom chart you want and make the other characters notes become on you
 -  **Balancing**
         - Balancing is basically counting notes and sliders of a chart. Sometimes useful for funky Friday so you know witch side your gonna pick the next time (also charts maybe different in funky Friday)
 
-when you hold the cursor on the file it says the wrong version pls ignore im lazy to fix
+when you hold the cursor on the file it says the wrong version pls ignore im lazy to fix, also nortan and other antiviruses think it's a virus cause the new version has just released.
