@@ -17,3 +17,5 @@ open any custom chart you want and make the other characters notes become on you
         - Before the change was made you could open and it automatically reversed it now when you open it doesn't automatically reverse it (there is a new button to do that.)
 -  **Balancing**
         - Balancing is basically counting notes and sliders of a chart. Sometimes useful for funky Friday so you know witch side your gonna pick the next time (also charts maybe different in funky Friday)
+
+when you hold the cursor on the file it says the wrong version pls ignore im lazy to fix
